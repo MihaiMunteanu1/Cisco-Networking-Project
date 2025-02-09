@@ -23,8 +23,6 @@ To complete this project, I had to fulfill several technical requirements, inclu
 
 * Implementing NAT for network address translation
 
-* Demonstrating the ability to explain any aspect of the implementation
-
 This project can be used for simulating a corporate network, testing routing configurations, and setting up essential network services. It showcases a solid 
 understanding of network design, IP addressing, routing, and server configurations.
 
