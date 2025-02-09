@@ -8,15 +8,25 @@ The topology includes routers, switches, servers (DHCP, DNS, WEB), and network d
 To complete this project, I had to fulfill several technical requirements, including:
 
 Designing the network and correctly connecting cables
+
 Subnetting the given IP range and ensuring efficient address allocation
+
 Assigning static IP addresses and configuring DHCP for dynamic IP allocation
+
 Setting up default gateways and verifying inter-network connectivity via pinging
+
 Configuring routing (static or dynamic using RIP)
+
 Setting up and using DNS and a web server, ensuring accessibility from any machine
+
 Using minimal IP classes for inter-router connections
+
 Implementing NAT for network address translation
+
 Demonstrating the ability to explain any aspect of the implementation
-This project can be used for simulating a corporate network, testing routing configurations, and setting up essential network services. It showcases a solid understanding of network design, IP addressing, routing, and server configurations.
+
+This project can be used for simulating a corporate network, testing routing configurations, and setting up essential network services. It showcases a solid 
+understanding of network design, IP addressing, routing, and server configurations.
 
 ![image](https://github.com/user-attachments/assets/54cf04d5-57e0-41bb-a39f-6b39c50d6874)
 
